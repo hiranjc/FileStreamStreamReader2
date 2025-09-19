@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\bin\Debug\net8.0\FileStreamStreamReader2.exe
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\bin\Debug\net8.0\FileStreamStreamReader2.deps.json
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\bin\Debug\net8.0\FileStreamStreamReader2.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\bin\Debug\net8.0\FileStreamStreamReader2.dll
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\bin\Debug\net8.0\FileStreamStreamReader2.pdb
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.dll
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\refint\FileStreamStreamReader2.dll
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.pdb
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\FileStreamStreamReader2.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\FileStreamStreamReader2\obj\Debug\net8.0\ref\FileStreamStreamReader2.dll
